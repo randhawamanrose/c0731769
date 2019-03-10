@@ -5,13 +5,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>
-
+ MANROSEPRET SINGH
     </title>
-    <link rel="stylesheet" type="text/css" href="Style.css"/>
+   
 </head>
 <body>
     <form id="form1" runat="server">
-        <center><div>
+        <div>
             <h1>Total grade Calculator</h1><br/><br/>
       
             Student Name: 
@@ -41,11 +41,9 @@
             Student Grade:
             <asp:TextBox ID="txtGrade" runat ="server" Width ="100"></asp:TextBox>
             
-         </div></center>
+         </div>
     </form>
-    <p>Manroseprret Singh<br/><br/>
-        c0731769<br/><br/>
-        </p>
+  
 </body>
     
 </html>
